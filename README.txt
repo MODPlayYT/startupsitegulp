@@ -7,6 +7,6 @@
 
 //------------------------------------------------------------------------------
 
-Документация шаблона: https://template.fls.guru/template-docs 
+Документация шаблона: https://docs.google.com/document/d/1ZcDJLEBPjKBwabtJ0UWMJFcTzTCFS2siJDVO-J6cCCg/edit?tab=t.0
 
 //------------------------------------------------------------------------------
